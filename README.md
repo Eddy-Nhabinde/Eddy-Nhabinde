@@ -54,6 +54,11 @@ edmilson-nhabinde-6768b3237)
 </div>
 
 ### :fire: My Stats :
+<div align="center" dir="auto">
+    <a href="https://github.com/ClaydLena">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ClaydLena" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Eddy-Nhabinde&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+    </a>
+ </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eddy-Nhabinde&theme=dark&background=000000)](https://git.io/streak-stats)
 
