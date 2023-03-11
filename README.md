@@ -25,7 +25,7 @@
 <!-- ### Hi there 👋 -->
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mozambique.
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mozambique.
 
 - :telescope: I’m working as a Software Developer contributing to frontend and backend for building web applications.
 
@@ -49,6 +49,11 @@ edmilson-nhabinde-6768b3237)
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eddy-Nhabinde&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **Eddy-Nhabinde/Eddy-Nhabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
