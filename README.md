@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<div align="eenter" >
+<div align="center" >
   <img src="https://komarev.com/ghpvc/?username=Eddy-Nhabinde&style=flat-square&color=blue" alt=""/>
 </div>
 
@@ -33,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 👯 I’m looking to collaborate on any kind of projects 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Eddy-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <!--
 **Eddy-Nhabinde/Eddy-Nhabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
