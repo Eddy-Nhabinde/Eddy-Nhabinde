@@ -13,13 +13,27 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+
+<div align="eenter" >
+  <img src="https://komarev.com/ghpvc/?username=Eddy-Nhabinde&style=flat-square&color=blue" alt=""/>
+</div>
+
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <!-- ### Hi there 👋 -->
+### :woman_technologist: About Me :
 
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Mozambique.
+
+- :telescope: I’m working as a Software Developer contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- 👯 I’m looking to collaborate on any kind of projects 
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <!--
 **Eddy-Nhabinde/Eddy-Nhabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
