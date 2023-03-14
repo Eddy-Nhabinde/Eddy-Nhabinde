@@ -57,7 +57,7 @@ edmilson-nhabinde-6768b3237
 ### :fire: My Stats :
 <div dir="auto">
     <a href="https://github.com/Eddy-Nhabinde">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eddy-Nhabinde" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Eddy-Nhabinde&amp;show_icons=true&amp;theme=dark&background=000000&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eddy-Nhabinde" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Eddy-Nhabinde&amp;show_icons=true&amp&theme=dark&background=000000&amp&include_all_commits=true&amp&count_private=true" style="max-width: 100%;">
     </a>
  </div>
 
