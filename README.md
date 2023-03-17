@@ -48,8 +48,6 @@ edmilson-nhabinde-6768b3237
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
-
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eddy-Nhabinde&theme=tokyonight" alt="CarlosMacaneta"  /></p>
 
