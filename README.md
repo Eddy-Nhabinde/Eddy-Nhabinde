@@ -49,20 +49,6 @@ edmilson-nhabinde-6768b3237
 </div>
 
 ### :fire: My Stats :
-<div dir="auto">
-    <a href="https://github.com/Eddy-Nhabinde">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eddy-Nhabinde" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Eddy-Nhabinde&amp;show_icons=true&amp&theme=dark&background=000000&amp&include_all_commits=true&amp&count_private=true" style="max-width: 100%;">
-    </a>
- </div>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Eddy-Nhabinde&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Nhabinde&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
 
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eddy-Nhabinde&theme=tokyonight" alt="CarlosMacaneta"  /></p>
@@ -81,6 +67,6 @@ edmilson-nhabinde-6768b3237
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Nhabinde&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/Eddy-Nhabinde/github-readme-stats) 
 ![Edmilson Nhabinde GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eddy-Nhabinde&theme=dracula&layout=compact)
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosMacaneta&theme=dracula)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eddy-Nhabinde&theme=dracula)
 
 </div>
