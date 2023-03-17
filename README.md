@@ -59,17 +59,28 @@ edmilson-nhabinde-6768b3237
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddy-Nhabinde&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-**Eddy-Nhabinde/Eddy-Nhabinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eddy-Nhabinde&theme=tokyonight" alt="CarlosMacaneta"  /></p>
+
+## 📊 Github Stats 
+
+
+  <p><b>💻 GitHub Profile Stats</b></p>
+  <br/>
+  
+<div align="center">
+	
+![Carlos Macaneta's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosMacaneta&show_icons=true&theme=tokyonight) 
+![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosMacaneta&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMacaneta&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/CarlosMacaneta/github-readme-stats) 
+![Carlos Macaneta GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosMacaneta&theme=dracula&layout=compact)
+
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosMacaneta&theme=dracula)
+
+</div>
