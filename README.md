@@ -49,7 +49,7 @@ edmilson-nhabinde-6768b3237
 </div>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eddy-Nhabinde&theme=tokyonight" alt="CarlosMacaneta"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Eddy-Nhabinde&theme=tokyonight" alt="EddyNhabinde"  /></p>
 
 ## 📊 Github Stats 
 
