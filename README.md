@@ -2,9 +2,9 @@
   Konnichiwa.
 	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<h1 align="center">
+<h2 align="center">
 	This is Eddy Nhabinde
-</h1>
+</h2>
 
 <!-- ### Hi there 👋 -->
 ### :woman_technologist: About Me :
